@@ -58,3 +58,6 @@ Communication Architecture
    - Lambda function:
      - Stores data in DynamoDB
      - Sends alert via SNS (email)
+    
+   - <img width="1272" height="636" alt="System architecutre" src="https://github.com/user-attachments/assets/fd8e0bea-717e-4691-900a-861b839e43ba" />
+
